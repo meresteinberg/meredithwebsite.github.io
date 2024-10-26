@@ -1,0 +1,16 @@
+---
+title: "Meredith's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Hello! My name is Meredith (she/her) and I am a student obtaining my Master's in Public Health in the Sociomedical Sciences department with a certificate in Applied Biostatistics at Columbia University.
+
+If you'd like to learn more about my academic and professional experience, visit [this page](experience.html).
+
+
+![](images/IMG_0089.JPG)
+
+

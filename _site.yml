@@ -1,0 +1,18 @@
+name: "Meredith's Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Academic and Professional Experience"
+      href: experience.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<ms6826@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/meresteinberg/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/meredith-steinberg/
+output:
+  html_document:
+    theme: cosmo

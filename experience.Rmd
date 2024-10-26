@@ -1,0 +1,51 @@
+---
+title: "Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### Education
+**Columbia University Mailman School of Public Health**                           (Aug 2023 - Present)
+Master’s in Public Health in Sociomedical Sciences
+Certificate: Applied Biostatistics & Public Health Data Science
+
+**University of California, Los Angeles**                                       (Sept 2017 - June 2021)
+Major: Human Biology and Society, B.S.; Minor: Public Health
+Honors: summa cum laude (GPA: 3.96/4.0); Deans Honors	                                  
+
+### Research Experience
+**Staff Research Associate** | [UCLA Center for Social Medicine](https://socialmedicine.semel.ucla.edu/) 			      (July 2021 - Aug 2023) <br>
+●	Supported research on incarceration, homelessness, mental illness, and substance-use disorders led   by medical anthropologist Dr. Philippe Bourgois <br>
+          o Edited scholarly manuscript submissions for peer-review publications ranging from American Journal of Public Health and     
+       International Journal of Drug Policy to University of California Press <br>
+          o Managed NIH grants and Human Subjects Institutional Review Board studies <br>
+          o Prepared presentations for conferences and invited lectures  <br>
+●	Maintained and organized large-team ethnographic data sets (NVivo program) to bring them into dialogue with population-level quantitative data    sets <br>
+●	Updated and maintained both the Center’s and Dr. Bourgois’ website and social media <br>
+
+**Student Lead** | [EpicenterLA Research Group at UCLA](https://epicenterla.org/about-us-2/) 			(Aug 2018 - June 2021)<br>
+●	Led research projects to be published on the group’s website: Topics include the framing of epidemics in media, and misinformation as a public health crisis during the Covid-19 pandemic<br>
+●	Mentored 10 undergraduates on their research endeavors, and facilitate discussions on current events<br>
+●	Admin and web developer for the team’s website, curating news that was relevant to our mission <br>
+
+**Summer Intern** | [Institute for Translational Epidemiology at Mount Sinai](https://icahn.mssm.edu/research/epidemiology/about) 		      (July - Sept 2019) <br>
+●	Co-authored a paper on different treatment methods and outcomes for lung cancer across racial groups<br>
+●	Conducted research for international symposium presentations on lung cancer and uranium exposure<br>
+●	Organized and analyzed thoracic surgery patient data to streamline future research efforts utilizing EPIC software platform<br>
+
+### Volunteer Experience
+**Volunteer** | [Clementine Collective Project](https://www.health4youths.org/clementine-collective.html) 			         			 	  (Aug 2023 - Present)<br>
+●	Delivering free clementines weekly to Manhattan Best Deli in Washington Heights with the goal of making healthy produce more accessible for people who come from low-socioeconomic backgrounds<br>
+ 
+**Education Director & Mentor** | [UCLA WYSE](https://uclawyse.wordpress.com/)					         (Sept 2018 - June 2021)<br>
+●	Co-directed the planning and execution of site activities (delivered virtually during COVID) for WYSE, a UCLA mentorship club for young women that works with two middle schools in LA County <br>
+●	Planned weekly mentor/mentee activities to build a trustful relationship, and to empower mentees to create social change within their communities<br>
+
+### Publication
+[Racial Disparities in Treatment Patterns and Survival Among Surgically Treated Malignant Pleural Mesothelioma Patients](https://link.springer.com/article/10.1007/s10903-020-01038-x), Journal of Immigrant and Minority Health, June 2020
+
+### Skills
+**Skills**: Qualitative coding (Nvivo Program); SAS; Zotero; Spanish (Intermediate)
+                                     
